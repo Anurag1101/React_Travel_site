@@ -173,7 +173,7 @@ const Footer = () => {
 
           <div className="footerDiv flex">
             <small>BEST TRAVEL WEBSITE THEME</small>
-            <large>ANURAG CREATION</large>
+            <small>ANURAG CREATION</small>
           </div>
 
         </div>
